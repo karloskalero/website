@@ -144,15 +144,15 @@ a:hover { color: #FF0; }
 
 
 .baner-content {
-  padding-top: 30vh;
+  padding-top: 0vh;
   text-align: center;
   background-image: url(../img/1st-section.jpg);
 }
 
 .baner-content h1 {
-  margin-top: 0px;
-  font-size: 128px;
-  color: #fff;
+  margin-top: 50px;
+  font-size: 70px;
+  color: rgba(4, 7, 53, 0.932);
   font-weight: 900;
   text-transform: uppercase;
   margin-bottom: 0px;
